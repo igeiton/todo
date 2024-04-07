@@ -1,5 +1,5 @@
 import { useAppSelector } from './Store';
-import Input from './Components/Input';
+import Input from './Components/AddTodo';
 import Todo from './Components/Todo';
 import Clear from './Components/Clear';
 

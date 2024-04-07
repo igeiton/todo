@@ -35,7 +35,7 @@ export default function Input() {
             />
 
             <button
-                onClick={() => value.trim() && handleDispatch}
+                onClick={() => value.trim() && handleDispatch()}
                 className="button"
             >
                 Add
